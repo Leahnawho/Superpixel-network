@@ -26,6 +26,7 @@ After 1000 epochs, calculated accuracy is about 0.94.
 
 ---
 ## How to use
+---
 ### Dependencies
 This tutorial depends on the following libraries:
 * Tensorflow
