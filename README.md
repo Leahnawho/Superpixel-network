@@ -3,7 +3,7 @@ This workbook stores programs related to superpixels, which was inspired by the 
 
 ## Implementation of deep learning framework -- U-Net, using Matlab,Keras
 
-The architecture was inspired by [U-Net: Convolutional Networks for Biomedical Image Segmentation](http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/).
+The architecture was inspired by ×Superpixel guided medical image segmentation based on deep network×.
 
 ##Overview
 
