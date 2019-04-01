@@ -23,7 +23,7 @@ Output from the network is a 512*512 which represents mask that should be learne
 ### Training
 The model is trained for 1000 epochs.
 After 1000 epochs, calculated accuracy is about 0.94.
-Loss function for the training is basically just a binary crossentropy
+
 ---
 ## How to use
 ### Dependencies
@@ -31,7 +31,7 @@ This tutorial depends on the following libraries:
 * Tensorflow
 * Keras >= 1.0
 * libtiff(optional)
-Also, this code should be compatible with Python versions 3.5.
+Also, this code should be compatible with Python versions 3.5 and Matlab.
 
 ### Prepare the data
 First transfer 3D volume tiff to 512*512 images.
