@@ -1,9 +1,9 @@
 # Superpixel-network
 This workbook stores programs related to superpixels, which was inspired by the paper "Superpixel guided medical image segmentation based on deep network".
 
-## Implementation of deep learning framework -- U-Net, using Matlab,Keras
+## Implementation of deep learning framework -- Network, using Matlab,Keras
 
-The architecture was inspired by ×Superpixel guided medical image segmentation based on deep network×.
+The architecture was inspired by **Superpixel guided medical image segmentation based on deep network**.
 
 ##Overview
 
