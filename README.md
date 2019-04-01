@@ -1,5 +1,5 @@
 # Superpixel-network
-This workbook stores programs related to superpixels, which was inspired by the paper "Superpixel guided medical image segmentation based on deep network".
+The repositpry contains programs related to superpixels, which was inspired by the paper "Superpixel guided medical image segmentation based on deep network".
 
 ## Implementation of deep learning framework -- Network, using Matlab,Keras
 
@@ -32,6 +32,7 @@ This tutorial depends on the following libraries:
 * Tensorflow
 * Keras >= 1.0
 * libtiff(optional)
+
 Also, this code should be compatible with Python versions 3.5 and Matlab.
 
 ### Prepare the data
